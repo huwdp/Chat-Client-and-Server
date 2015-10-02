@@ -1,0 +1,1 @@
+This code is based on an exersise at Swansea Metropolitan consisting of a skeleton with code to make the client and server connect to each other.
